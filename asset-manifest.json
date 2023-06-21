@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/IAF/static/js/main.1e7e1dfc.js",
+    "main.js": "/IAF/static/js/main.b1701a85.js",
     "static/js/787.3bfddee3.chunk.js": "/IAF/static/js/787.3bfddee3.chunk.js",
     "index.html": "/IAF/index.html",
-    "main.1e7e1dfc.js.map": "/IAF/static/js/main.1e7e1dfc.js.map",
+    "main.b1701a85.js.map": "/IAF/static/js/main.b1701a85.js.map",
     "787.3bfddee3.chunk.js.map": "/IAF/static/js/787.3bfddee3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e7e1dfc.js"
+    "static/js/main.b1701a85.js"
   ]
 }
